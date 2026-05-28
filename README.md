@@ -540,12 +540,9 @@ Add:
 
 # Example README Image Usage
 
-## Grafana Dashboard
-
-```markdown
+### Grafana Dashboard
 ![Grafana Dashboard](screenshots/1.png)
 ![Grafana Dashboard](screenshots/2.png)
-```
 
 ---
 
