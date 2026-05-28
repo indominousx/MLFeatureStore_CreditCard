@@ -543,8 +543,8 @@ Add:
 ## Grafana Dashboard
 
 ```markdown
-![Grafana Dashboard]("D:\captures\Screenshot 2026-05-28 142226.png")
-![Grafana Dashboard]("D:\captures\Screenshot 2026-05-28 142053.png")
+![Grafana Dashboard](screenshots/1.png)
+![Grafana Dashboard](screenshots/2.png)
 ```
 
 ---
